@@ -2,5 +2,12 @@
 .pytest_cache/
 __pycache__/
 *.py[cod]
-artifacts/
+artifacts/*
+!artifacts/puzzle/
+artifacts/puzzle/*
+!artifacts/puzzle/puzzle.v
+!artifacts/puzzle/connectivity.txt
+!artifacts/puzzle/solution.mem
+!artifacts/puzzle/star_battle.txt
+
 third_party/

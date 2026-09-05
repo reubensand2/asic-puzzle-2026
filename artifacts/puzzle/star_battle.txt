@@ -1,0 +1,28 @@
+Stars per row:    [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Stars per column: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Adjacent pairs:   []
+
+ROM-selected Star Battle regions:
+A A A A A B B C D D E
+A A F A A B C C D D E
+A A F B B B B C C D E
+A A F B G G G E C C E
+F A F B G E E E E E E
+F F F B G G G E H H H
+B B B B B B G E H I I
+B J J J G G G E H I I
+B J J K E E E E H I I
+B B J K K E E E H H H
+B J J K E E E E E E E
+Region state/counts:
+  A: 14 cells, 2 stars, state ['$1672']
+  B: 21 cells, 2 stars, state ['$2019']
+  C:  7 cells, 2 stars, state ['$1438']
+  D:  5 cells, 2 stars, state ['$1522']
+  E: 28 cells, 2 stars, state ['$1965']
+  F:  8 cells, 2 stars, state ['$1032']
+  G: 11 cells, 2 stars, state ['$1226']
+  H:  9 cells, 2 stars, state ['$1193']
+  I:  6 cells, 2 stars, state ['$2204']
+  J:  8 cells, 2 stars, state ['$1921']
+  K:  4 cells, 2 stars, state ['$1293']
